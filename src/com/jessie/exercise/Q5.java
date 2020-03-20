@@ -1,8 +1,4 @@
-package com.xj.Exercise;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+package com.jessie.exercise;
 
 /**
  * 给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。

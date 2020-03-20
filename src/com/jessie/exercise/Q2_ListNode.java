@@ -1,4 +1,4 @@
-package com.xj.Exercise;
+package com.jessie.exercise;
 
 public class Q2_ListNode {
     int val;

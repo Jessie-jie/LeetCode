@@ -1,4 +1,4 @@
-package com.xj.knowledge;
+package com.jessie.knowledge;
 
 import java.util.HashMap;
 import java.util.Map;

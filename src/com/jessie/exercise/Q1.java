@@ -1,9 +1,4 @@
-package com.xj.Exercise;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+package com.jessie.exercise;
 
 /**
  * 两数之和
